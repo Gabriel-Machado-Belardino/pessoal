@@ -1,2 +1,3 @@
 Nome: Gabriel Machado Belardino
 Cidade Natal: São Paulo
+UF: SP
